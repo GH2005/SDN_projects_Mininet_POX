@@ -3,4 +3,4 @@ containing code I wrote in learning and working on Software-defined Networking
 
 mytopo.py and demo.py: done in a task of the Openflow Tutorial https://github.com/mininet/openflow-tutorial/wiki/Create-a-Learning-Switch. mytopo.py is a Mininet topology definition file and demo.py is a POX controller component module.
 
-l2learningEvaluation.py: a POX controller component that implements layer 2 learning switch logic; Python multiprocessing is used to improve the performance; when running, a user can interact with the CLI and make it switch between non-multiprocessing mode and multiprocessing mode; a user can also change the number of worker processes using the CLI
+l2learningEvaluation.py: a POX controller component that implements layer 2 learning switch logic; Python multiprocessing is used to improve the performance; when used with the POX component, "py", a user can interact with the CLI and make it switch between non-multiprocessing mode and multiprocessing mode; a user can also change the number of worker processes using the CLI; of course, you can designate these parameters when you launch the controller as well.
