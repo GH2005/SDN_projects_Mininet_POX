@@ -1,5 +1,5 @@
 # SDN_projects_Mininet_POX
-containing Code I Wrote in Learning and Working on Software-Defined Networking
+Containing Code I Wrote in Learning and Working on Software-Defined Networking
 
 Mytopo.py and demo.py: done in a task of the OpenFlow Tutorial https://github.com/mininet/openflow-tutorial/wiki/Create-a-Learning-Switch. mytopo.py is a Mininet topology definition file and demo.py is a POX controller component module.
 
