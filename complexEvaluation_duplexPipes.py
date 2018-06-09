@@ -7,7 +7,7 @@ this component works together with Mininet and complexTopo.py
 there are two working modes which can be switched interactively by the user
 during runtime: monoprocessing and multiprocessing
 
-the user can also trigger a change of the costs of all links in the topo
+The user can also trigger a change of the costs of all links in the topo
 
 the number of worker processes can be changed in runtime
 """
