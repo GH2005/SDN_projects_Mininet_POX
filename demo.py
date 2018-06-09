@@ -118,7 +118,7 @@ class StaticRouterNoFlowmod (object):
                 log.info("a packet between hosts is got")
 
                 tableEntry = self.routing_table[dstIPStr]
-                # # flow mod
+                # # # flow mod
                 # msg = of.ofp_flow_mod(match = of.ofp_match.from_packet(frame))
                 # msg.actions.append(
                 #     of.ofp_action_dl_addr.set_src(Addr.EthAddr(tableEntry["intMAC"])))
