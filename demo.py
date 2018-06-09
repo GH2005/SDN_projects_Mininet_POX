@@ -1,5 +1,5 @@
 """
-static router demo: pox hello world
+Static router demo: pox hello world
 """
 
 from pox.core import core
