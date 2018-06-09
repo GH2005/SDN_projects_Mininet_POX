@@ -4,7 +4,7 @@ Python-based SDN controllers
 
 this component works together with Mininet and complexTopo.py
 
-there are two working modes which can be switched interactively by the user
+There are two working modes which can be switched interactively by the user
 during runtime: monoprocessing and multiprocessing
 
 the user can also trigger a change of the costs of all links in the topo
